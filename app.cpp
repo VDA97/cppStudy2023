@@ -21,6 +21,7 @@ void QuitFunc(MenuItem&) {
 
 int main()
 {
+	//Edited
     ShowCmd show;
     QuitCmd quit;
 	DataRGB newRGB;
